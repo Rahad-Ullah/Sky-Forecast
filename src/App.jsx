@@ -12,7 +12,7 @@ function App() {
 
       console.log('Latitude is: ', lat)
       console.log('Longitude is: ', long)
-      console.log('Hello world');
+      console.log('Longitude is: ', long)
     })
   } , [lat, long])
   return (
